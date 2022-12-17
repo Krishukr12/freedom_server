@@ -1,27 +1,39 @@
 {
-  "user": [
+  "jobs": [
     {
-      "Name": "Krishan Kumar",
-      "Age": "24",
-      "Gender": "Male",
-      "Country": "India",
-      "Profession": "employee",
+      "Company Name": "Masai",
+      "City": "delhi",
+      "Location": "bg",
+      "Role": "frontend",
+      "Level": "senior",
+      "Position": "Junior Developer",
+      "Language": "Javascript",
+      "Contract": "Full Time",
+      "Date": "2022-12-24",
       "id": 2
     },
     {
-      "Name": "krishan",
-      "Age": "56",
-      "Gender": "Female",
-      "Country": "Antigua and Barbuda",
-      "Profession": "student",
+      "Company Name": "Krisahn",
+      "City": "madhubani",
+      "Location": "Darbhanga",
+      "Role": "frontend",
+      "Level": "senior",
+      "Position": "Backend Developer",
+      "Language": "JAVA",
+      "Contract": "Full Time",
+      "Date": "2022-12-31",
       "id": 3
     },
     {
-      "Name": "krishan",
-      "Age": "56",
-      "Gender": "Female",
-      "Country": "Bahrain",
-      "Profession": "student",
+      "Company Name": "Delhi",
+      "City": "madhubani",
+      "Location": "dasdfad",
+      "Role": "backend",
+      "Level": "senior",
+      "Position": "Junior Developer",
+      "Language": "JAVA",
+      "Contract": "Full Time",
+      "Date": "2022-12-26",
       "id": 4
     }
   ]
